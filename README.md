@@ -32,6 +32,6 @@ To use this calculator application, follow these steps:
 
 ## Screenshots
 
-![Image1](Images/image1.png)
+![Image1](Images/Image1.png)
 
-![Image2](Images/image2.png)
+![Image2](Images/Image2.png)
